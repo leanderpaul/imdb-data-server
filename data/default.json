@@ -1,0 +1,26 @@
+{
+  "id": "tt0000001",
+  "title": "Default Movie Title",
+  "releaseDate": "1925-07-13",
+  "runtimeMins": 95,
+  "plot": "The plot of the default movie",
+  "directorList": [{ "id": "nm00000001", "name": "Default Director" }],
+  "writerList": [{ "id": "nm00000002", "name": "Default Writer" }],
+  "actorList": [
+    {
+      "id": "nm00000003",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Default Actor One",
+      "asCharacter": "Default Character One"
+    },
+    {
+      "id": "nm00000004",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGRkZjljYmQtMGVmZS00OWNhLWIzZjAtMzBhYTM1NjQ4NDZlXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Default Actor Two",
+      "asCharacter": "Default Character Two"
+    }
+  ],
+  "genres": "Adventure, Comedy, Drama",
+  "languages": "English, None",
+  "imDbRating": "8.2"
+}
