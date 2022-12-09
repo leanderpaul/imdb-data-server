@@ -2,7 +2,7 @@
   "id": "tt0000001",
   "title": "Default Movie Title",
   "releaseDate": "1925-07-13",
-  "runtimeMins": 95,
+  "runtimeMins": "95",
   "plot": "The plot of the default movie",
   "directorList": [{ "id": "nm00000001", "name": "Default Director" }],
   "writerList": [{ "id": "nm00000002", "name": "Default Writer" }],
